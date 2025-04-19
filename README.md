@@ -1,9 +1,5 @@
-# cv-html-project
-Single-Page CV
-
-# My HTML CV
+# CV HTML Project
 
 This is a simple one-page CV built using only HTML.
 
-🔗 **Live Preview:** https://thanapjy.github.io/cv-html-project/
-
+🔗 **Live Preview:** [https://thanapjy.github.io/cv-html-project/](https://thanapjy.github.io/cv-html-project/)
